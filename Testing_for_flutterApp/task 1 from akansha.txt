@@ -1,0 +1,5 @@
+uat deployemet release 570 pipeline ieco admin ops-ui also the link mail krna hai
+sit or uat enable hona chahiye bakii saari disable honi chahiye by default saari enable hoti h
+frst task is to date n time alaag krna hai file name sa or file name alaag krna hai
+size jo aani vali h bytes m hai toh usko kb ya mb m convert krna hai
+javascript 
